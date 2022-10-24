@@ -1,6 +1,6 @@
-<h1 align="center">Game</h1>
+<h1 align="center">Tic-tac-toe Game</h1>
 
-<h3 align="center">Simple site to play </h3>
+<h3 align="center">Simple site to play Tic-tac-toe Game.</h3>
 
 <p align="center">
   <a href="#-about-the-project">ABOUT THE PROJECT</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
@@ -20,15 +20,15 @@
 
 ## 💡 About the project
 
-This is an open source project that serves as a free alternative to Rock-Paper-Scissor Game website.
+This is an open source project that serves as a free alternative to Tic-tac-toe Game website.
 - [Demo]()
 
 ## 🚀 Getting started
 
 If you installed git you can clone the code to your machine, or download a ZIP of all the files directly.
-[Download the ZIP from this location](), or run the following [git](https://git-scm.com/downloads) command to clone the files to your machine:
+[Download the ZIP from this location](https://github.com/KunalUpadhyay02/Tic-tac-toe.io/archive/refs/heads/main.zip), or run the following [git](https://git-scm.com/downloads) command to clone the files to your machine:
 ```bash
-git clone https://github.com/KunalUpadhyay02/Rock-Paper-Scissors
+git clone https://github.com/KunalUpadhyay02/Tic-tac-toe.io.git
 ```
 - Once the files are on your machine, open the Rock-Paper-Scissors folder in [Visual Studio Code](https://code.visualstudio.com/) or in [Atom](https://atom.io/).
 - With the files open in Visual Studio Code, press the **Go Live** button at the bottom of the window to launch the files with [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer).
@@ -36,7 +36,7 @@ git clone https://github.com/KunalUpadhyay02/Rock-Paper-Scissors
 - If you want then change the texts in the `index.html` file.
 - Change the colors and fonts in the `style.css` file.
 
-## 👓 Step to make your own Rock✊-Paper🖐-Scissors✌ Web page Game:
+## 👓 Step to make your own Tic-tac-toe Web page Game:
 
 Step 1. Fork this repository and boom you wil get this repository in your profile section.<br>
 Step 2. You can edit html and css file to change the design its all up to you.<br>
